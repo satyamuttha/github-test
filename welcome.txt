@@ -1,14 +1,12 @@
-welcome to free gurukul
+Welcome to Free Furukul Foundation.
 
+Welcome to Satyanarayana. 
 
-welcome to satyanarayana
+Welcome to Sailaja.
 
-welcome to sailaja
-
-
-
-I like Advanced JavaScript
+I like Advanced JavaScript Programming
 
 I like React Programming.
 
 I like FullStackDeveloper using MERN Technology.
+
